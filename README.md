@@ -396,3 +396,5 @@ end
 [now]: https://ruby-doc.org/core-2.6.3/Time.html#method-c-now
 [demorgan]: https://en.wikipedia.org/wiki/De_Morgan%27s_laws
 
+run_code_inside
+puts "code before if...end"
